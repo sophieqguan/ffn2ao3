@@ -45,6 +45,6 @@ python3 main.py
 
 ### Plans
 
-- Front-End or better CLI implementation
+- Front-End (will make this API) or better CLI implementation
 - Add Character/Relationship tags
 - Automatic tagging
