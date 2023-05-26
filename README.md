@@ -40,3 +40,11 @@ python3 main.py
 [25 May 2023, 18:09:42] 	Chapter 4 posted.
 [25 May 2023, 18:09:42] New work URL: https://archiveofourown.org/works/47429380
 ```
+
+---
+
+### Plans
+
+- Front-End or better CLI implementation
+- Add Character/Relationship tags
+- Automatic tagging
